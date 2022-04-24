@@ -7,7 +7,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### HEALTH DATA:
 Clinical study hearth health
 
+![Image]https://github.com/Captain7Hastings/Irene_NS_Portafolio/blob/main/Corr_ful.png
 
+correlation
+
+![Image]https://github.com/Captain7Hastings/Irene_NS_Portafolio/blob/main/Corr_py.png
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
